@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid grey;
+    width: 600px;
+}
+th, td {border: 1px solid grey;}
+th {width: 20%;}
+
+* {
+    padding:0;
+    margin:0;
+}
+
+html{
+    font:14px normal Arial, sans-serif;
+    color:#626771;
+    background-color:#fff;
+}
+
+body{
+    padding:60px;
+    text-align: center;
+}
